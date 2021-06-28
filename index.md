@@ -5,8 +5,6 @@
     <p>We're looking for:</p>
     <p>Technical abilities: you should be able to build software that works. Coding standards: your submission should adhere to some kind of consistent coding standards, in terms of formatting, naming (files, variables and functions) and comments/annotations.</p>
     <p>Problem solving skills: the tasks are non-trivial, with multiple solutions. Use your experience and skills of judgement to choose the best.</p>
-    <button type="button" onclick="frontend.html">Front End</button><br>
-    <button type="button" onclick="backend.html">Back End</button>
   </body>
 
 </html>
