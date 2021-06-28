@@ -7,6 +7,6 @@
     <p>Problem solving skills: the tasks are non-trivial, with multiple solutions. Use your experience and skills of judgement to choose the best.</p>
   </body>
   
-  <button type="button" onclick="https://bixie-pvt.github.io/bixie.github.io/backend.html"> Backend </button>
+  <a href="https://bixie-pvt.github.io/bixie.github.io/backend.html" title="Backend"> Backend </a>
 
 </html>
