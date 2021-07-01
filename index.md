@@ -1,7 +1,7 @@
 <html>
   <head>
     <style>
-      .tabl {width:400px;border:1px solid blue;display:table;background-color:blue}
+      .tabl {width:400px;border:1px solid blue;display:table;background-color:white}
       .row {height:40px;display:table-row;text-align: center;vertical-align: middle}
       .cell {border:px solid black;display:table-cell}
     </style>
