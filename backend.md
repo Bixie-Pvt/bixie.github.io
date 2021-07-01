@@ -1,4 +1,4 @@
-## P'unk Avenue Node.js Backend Challenge
+## Node.js Backend Challenge
 
 [Indego](https://www.rideindego.com) is Philadelphia's bike-sharing program, with many bike stations in the city.
 
@@ -74,17 +74,17 @@ All of the APIs should have unit test coverage; invoking `npm test` should test 
 
 You'll need to make your API available on a server that we can communicate with from the office, not just on your laptop. Although this is not a system administration job, we're interested in seeing that you are comfortable with the fundamentals of installing services on Linux and/or working with cloud providers like Heroku.
 
-You might wish to use Linode or Digital Ocean and install both Node and MongoDB on a VPS yourself. Alternatively you might use a combination of Heroku and MLab, both of which have free tiers available.
+You might wish to use Digital Ocean or AWS and install both Node and Postgresql on a VPS yourself. Alternatively you might use a combination of Heroku and MLab, both of which have free tiers available.
  
 ## Criteria
 
 Your work will be evaluated primarily on:
 
 * Consistency of coding style (ideally in harmony with our [JavaScript style guide](https://github.com/punkave/best-practices/blob/master/javascript.md))
-* Idiomatic use of `express`, `mongodb`, `bluebird` and `lodash`
+* Idiomatic use of `express`, `postgresql`, `bluebird` and `lodash`
 * Correct use of promises, including proper error handling. async/await may be used
 * Absence of "callback hell"
-* Efficient MongoDB queries
+* Efficient postgresql queries
 * Correct and complete unit test coverage
 * General quality of code and technical communication.
 
@@ -94,6 +94,6 @@ Fork this project on github. When you're finished, send us the URL of your publi
 
 ## Extra credit
 
-* A simple front end React or Vue application, and/or Express-powered webpage, offering a visualization of all or part of the data utilizing the API you have built as a back end.
+* A simple front end flutter or react application, and/or Express-powered webpage, offering a visualization of all or part of the data utilizing the API you have built as a back end.
 * Import the [historical data available from Indego](https://www.rideindego.com/about/data/) so that it is available via the queries above. Note that this is in addition to, not an alternative to, downloading live data periodically and adding it to your own historical database.
 * Anything else you think is cool, relevant, and consistent with the other requirements.
