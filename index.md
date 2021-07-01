@@ -1,9 +1,9 @@
 <html>
   <head>
     <style>
-      .tabl {width:400px;border:1px solid blue;display:table}
-      .row {height:40px;display:table-row}
-      .cell {border:1px solid black;display:table-cell}
+      .tabl {width:400px;border:1px solid blue;display:table;background-color:blue}
+      .row {height:40px;display:table-row;text-align: center;vertical-align: middle}
+      .cell {border:px solid black;display:table-cell}
     </style>
   </head>
   <body>
