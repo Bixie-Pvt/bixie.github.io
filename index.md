@@ -16,8 +16,8 @@
   <div class="tabl">
 
     <div class="row">
-      <div class="cell"> <a href="https://bixie-pvt.github.io/bixie.github.io/backend.html" title="Backend"> Backend </a> </div>
-      <div class="cell"> <a href="https://bixie-pvt.github.io/bixie.github.io/frontend.html" title="Frontend"> Frontend </a> </div>
+      <div class="cell"> <a href="https://bixie-pvt.github.io/bixie.github.io/backend.md" title="Backend"> Backend </a> </div>
+      <div class="cell"> <a href="https://bixie-pvt.github.io/bixie.github.io/frontend.md" title="Frontend"> Frontend </a> </div>
     </div>
 
   </div>
