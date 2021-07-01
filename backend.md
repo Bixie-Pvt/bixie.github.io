@@ -6,7 +6,7 @@ The [Indego GeoJSON station status API](https://www.rideindego.com/stations/json
 
 The [Open Weather Map API](https://openweathermap.org/current#name) provides a realtime snapshot of the current weather in a given city. Since Philadelphia is a small geographical area it is sufficient to obtain the weather for a geographical location central to Philadelphia. This API has a free plan, you will need to sign up for an API key.
 
-Using MongoDB, Node.js, Express, [Bluebird](https://npmjs.org/package/bluebird), Lodash and the Linux, Node.js and MongoDB hosting of your choice (see below for hosting details including free options), create a new API server which accumulates data over time and provides access to historical data for both weather and Indego bike availability, supporting the following queries at minimum. Note that it is sufficient to store data at hourly intervals.
+Using Postgresql, Node.js, Express, [Bluebird](https://npmjs.org/package/bluebird), Lodash and the Linux, Node.js and MongoDB hosting of your choice (see below for hosting details including free options), create a new API server which accumulates data over time and provides access to historical data for both weather and Indego bike availability, supporting the following queries at minimum. Note that it is sufficient to store data at hourly intervals.
 
 *Please note: historical CSV data downloads are available from Indego, however you should not rely on them.* Instead you should build your own node application that downloads fresh data at least once per hour, stores it and implements the API described below.
 
