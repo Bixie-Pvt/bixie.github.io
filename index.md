@@ -12,8 +12,8 @@
     </colgroup>
     <tdbody>
       <tr>
-        <th> <div>  <a href="https://bixie-pvt.github.io/bixie.github.io/backend.html" title="Backend"> Backend </a> </div> </th>
-        <th> <div>  <a href="https://bixie-pvt.github.io/bixie.github.io/frontend.html" title="Frontend"> Frontend </a> </div> </th>
+        <td> <div>  <a href="https://bixie-pvt.github.io/bixie.github.io/backend.html" title="Backend"> Backend </a> </div> </td>
+        <td> <div>  <a href="https://bixie-pvt.github.io/bixie.github.io/frontend.html" title="Frontend"> Frontend </a> </div> </td>
       </tr>
     </tdbody>
   </table>
