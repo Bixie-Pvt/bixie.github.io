@@ -6,7 +6,18 @@
     <p>Technical abilities: you should be able to build software that works. Coding standards: your submission should adhere to some kind of consistent coding standards, in terms of formatting, naming (files, variables and functions) and comments/annotations.</p>
     <p>Problem solving skills: the tasks are non-trivial, with multiple solutions. Use your experience and skills of judgement to choose the best.</p>
   </body>
-  
-  <a href="https://bixie-pvt.github.io/bixie.github.io/backend.html" title="Backend"> Backend </a>
+  <table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+    <tdbody>
+      <tr>
+        <th> <div>  <a href="https://bixie-pvt.github.io/bixie.github.io/backend.html" title="Backend"> Backend </a> </div> </th>
+        <th> <div>  <a href="https://bixie-pvt.github.io/bixie.github.io/frontend.html" title="Frontend"> Frontend </a> </div> </th>
+      </tr>
+    </tdbody>
+  </table>
 
 </html>
